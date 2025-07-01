@@ -91,6 +91,9 @@ python rt_object_detection.py
 
 The `snapshots/` directory contains images of frames where objects were detected. These snapshots can be used for further analysis or record-keeping.
 
+- **Sample Snapshots**
+- ![snap_20250527_204521_703159](https://github.com/user-attachments/assets/a60451a7-eaa1-46c2-a2fe-afa5f66a9da0)
+
 ---
 
 This project provides a simple and effective way to perform real-time object detection using a lightweight YOLOv10 model on CPU, suitable for various applications such as surveillance, monitoring, and interactive systems.
