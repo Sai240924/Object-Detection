@@ -87,7 +87,7 @@ python rt_object_detection.py
 - **Performance:**
   - The script limits the frame processing rate to the target FPS to balance performance and detection accuracy.
 
-## Snapshots Folder
+## Snapshots Folder(Create)
 
 The `snapshots/` directory contains images of frames where objects were detected. These snapshots can be used for further analysis or record-keeping.
 
